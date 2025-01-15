@@ -12,9 +12,7 @@ I also have a like to (or try to) maintain a healthy work-life balance. Whenever
 
 - 📺 Keeping up with the NBA and new films
 - ⛹️ Playing basketball with friends
-- 👷 Building Lego sets
 - 🍽️ Eating food
-- 🏋️‍♂️ Dying at the gym
 - 🎣 Fishing
 
 ## 🛠️ Skills
