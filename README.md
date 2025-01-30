@@ -8,13 +8,6 @@ I enjoy taking part in design teams and clubs at school in my free time. In the 
 
 In addition to my involvement in design teams, I’ve had the opportunity to contribute to academic research, such as my time working within the **Human Factors and Applied Statistics Laboratory (HFASt Lab)**, where I developed a **👁️ computer vision-based driver drowsiness detection system**.
 
-I also have a like to (or try to) maintain a healthy work-life balance. Whenever I have free time, I enjoy...
-
-- 📺 Keeping up with the NBA and new films
-- ⛹️ Playing basketball with friends
-- 🍽️ Eating food
-- 🎣 Fishing
-
 ## 🛠️ Skills
 
 ### Programming Languages
